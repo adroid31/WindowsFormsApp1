@@ -1,0 +1,9 @@
+C:\Users\adroi\source\repos\WindowsFormsApp1\WindowsFormsApp1_setup\bin\Debug\WindowsFormsApp1_setup.msi
+C:\Users\adroi\source\repos\WindowsFormsApp1\WindowsFormsApp1_setup\bin\Debug\WindowsFormsApp1_setup.wixpdb
+obj\Debug\Components.wixobj
+obj\Debug\ComponentsGenerated.wixobj
+obj\Debug\Directories.wixobj
+obj\Debug\Product.wixobj
+obj\Debug\WindowsFormsApp1_setup.wixproj.BindContentsFileListnull.txt
+obj\Debug\WindowsFormsApp1_setup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WindowsFormsApp1_setup.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,9 @@
+obj\Release\Product.wixobj
+obj\Release\Components.wixobj
+obj\Release\Directories.wixobj
+obj\Release\ComponentsGenerated.wixobj
+C:\Users\adroi\source\repos\WindowsFormsApp1\WindowsFormsApp1_setup\bin\Release\WindowsFormsApp1_setup.msi
+C:\Users\adroi\source\repos\WindowsFormsApp1\WindowsFormsApp1_setup\bin\Release\WindowsFormsApp1_setup.wixpdb
+obj\Release\WindowsFormsApp1_setup.wixproj.BindContentsFileListnull.txt
+obj\Release\WindowsFormsApp1_setup.wixproj.BindOutputsFileListnull.txt
+obj\Release\WindowsFormsApp1_setup.wixproj.BindBuiltOutputsFileListnull.txt

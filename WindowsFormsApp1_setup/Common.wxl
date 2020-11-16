@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WixLocalization Culture="en-us" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+	
+  <String Id="ProductName_x64">WindowsFormApp1 (64 bit)</String>
+  <String Id="ProductName_x86">WindowsFormApp1 (32 bit)</String>
+  <String Id="ShortProductName">WindowsFormApp1</String>
+  
+  <String Id="AppBuildFolder">..\WindowsFormsApp1\bin\Release\</String>
+  <String Id="AppFile">..\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe</String>
+  
+  <String Id="Company">limiteddata</String>
+  <String Id="Description">WindowsFormApp1</String>
+  <String Id="Keywords">WindowsFormApp1, FormApp1</String>
+  <String Id="HelpUrl">https://github.com/limiteddata/ESPRGB-Client</String> 
+</WixLocalization>

@@ -1,0 +1,2 @@
+C:\Users\adroi\source\repos\WindowsFormsApp1\WindowsFormsApp1_setup\bin\Debug\WindowsFormsApp1_setup.msi
+C:\Users\adroi\source\repos\WindowsFormsApp1\WindowsFormsApp1_setup\bin\Debug\WindowsFormsApp1_setup.wixpdb
